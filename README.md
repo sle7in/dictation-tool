@@ -10,7 +10,7 @@ Key-repeat and accidental holds are filtered out so only intentional double-taps
 
 ## Requirements
 
-- Windows
+- Windows (must run as Administrator — required to capture global keystrokes and paste into any window)
 - NVIDIA GPU with CUDA support
 - Python 3.10+
 
